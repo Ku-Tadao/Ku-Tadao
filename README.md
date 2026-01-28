@@ -1,8 +1,6 @@
 <h1 align="center">
 	Hello, I’m Ku-Tadao
 </h1>
-
-<h2 align="center">About Me</h2>
 <p align="center">
 	Community Manager and Technical Support Engineer with 5 years of experience across community leadership, software localization, and hardware diagnostics.
 </p>
