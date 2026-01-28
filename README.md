@@ -5,7 +5,7 @@
 	Community Manager and Technical Support Engineer with 5 years of experience across community leadership, software localization, and hardware diagnostics.
 </p>
 
-<h2 align="center">Stats</h2>
+<h2 align="center"></h2>
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Ku-Tadao&theme=blue-green&show_icons=true" alt="Ku-Tadao GitHub Stats" />
 </p>
