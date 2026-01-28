@@ -1,6 +1,17 @@
-<h1 align="center"> Hello, I am Ku-Tadao 👋
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ku-Tadao&color=blue&style=for-the-badge" alt="Profile Views" />
+<h1 align="center">
+	Hello, I’m Ku-Tadao
+</h1>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ku-Tadao&theme=blue-green" alt="Most Used Languages" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ku-Tadao&theme=blue-green" alt="Ku-Tadao" />
+<h2 align="center">About Me</h2>
+<p align="center">
+	Community Manager and Technical Support Engineer with 5 years of experience across community leadership, software localization, and hardware diagnostics.
+</p>
+
+<h2 align="center">Stats</h2>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Ku-Tadao&theme=blue-green&show_icons=true" alt="Ku-Tadao GitHub Stats" />
+</p>
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ku-Tadao&theme=blue-green&layout=compact" alt="Most Used Languages" />
+</p>
+
