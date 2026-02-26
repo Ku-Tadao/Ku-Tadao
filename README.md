@@ -9,9 +9,9 @@
 
 <h2 align="center"></h2>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Ku-Tadao&theme=blue-green&show_icons=true" alt="Ku-Tadao GitHub Stats" />
+	<img src="./profile/stats.svg" alt="Ku-Tadao GitHub Stats" />
 </p>
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ku-Tadao&theme=blue-green&layout=compact" alt="Most Used Languages" />
+	<img src="./profile/top-langs.svg" alt="Most Used Languages" />
 </p>
 
