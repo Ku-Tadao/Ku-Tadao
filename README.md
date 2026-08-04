@@ -2,8 +2,8 @@
 
   # 👋 Hi, I'm Kubilay Karabulut 
 
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&height=50&lines=Full-Stack+Developer;Technical+Operations+%26+Support;Localization+%26+i18n+Engineer;Trust+%26+Safety+Product+Builder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&height=50&lines=Full-Stack+Developer;Technical+Operations+%26+Support;Localization+%26+i18n+Engineer;Trust+%26+Safety+Product+Builder" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&height=50&lines=Full-Stack+Developer;Technical+Operatio[...]">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&height=50&lines=Full-Stack+Developer;Technical+Opera[...]">
   </a>
 
   <p align="center">
@@ -31,7 +31,7 @@
 Full-stack developer and technical operations specialist with **5+ years of experience** bridging software development, community operations, workflow automation, and localization engineering.
 
 -  **Building Currently:** Co-founding and developing **GhostCheck** (Chrome Extension & platform) and **KuLink** (Smart TV media player).
--  **Previously:** Spent 5 years at **Swift Media Entertainment (Blitz.gg)** building automation pipelines, managing 17-language localization workflows, shipping production code, and supporting a community of 74,000+ members.
+-  **Previously:** Spent 5 years at **Swift Media Entertainment (Blitz.gg)** building automation pipelines, managing 17-language localization workflows, shipping production code, and supporting a [...]
 -  **Core Strengths:** React, TypeScript, Cloudflare Workers, Convex, i18n & Localization, AI-assisted workflows, and Trust & Safety engineering.
 
 ---
