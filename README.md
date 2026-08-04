@@ -99,5 +99,5 @@ Full-stack developer and technical operations specialist with **5+ years of expe
 ---
 
 <div align="center">
-  <sub>Designed with  by <a href="https://github.com/Ku-Tadao">Kubilay Karabulut</a></sub>
+  <sub>Designed with 💘 by <a href="https://github.com/Ku-Tadao">Kubilay Karabulut</a></sub>
 </div>
