@@ -7,7 +7,7 @@
   </a>
 
   <p align="center">
-    📍 Based in <b>Netherlands</b> &nbsp;|&nbsp; 🗣️ <b>Dutch (Native)</b>, <b>English (C2)</b>
+    Based in <b>Netherlands</b> &nbsp;|&nbsp; 🗣️ <b>Dutch (Native)</b>, <b>English (C2)</b>
   </p>
 
   <p align="center">
@@ -26,17 +26,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 Full-stack developer and technical operations specialist with **5+ years of experience** bridging software development, community operations, workflow automation, and localization engineering.
 
-- 🛠️ **Building Currently:** Co-founding and developing **GhostCheck** (Chrome Extension & platform) and **KuLink** (Smart TV media player).
-- 💼 **Previously:** Spent 5 years at **Swift Media Entertainment (Blitz.gg)** building automation pipelines, managing 17-language localization workflows, shipping production code, and supporting a community of 74,000+ members.
-- 🎯 **Core Strengths:** React, TypeScript, Cloudflare Workers, Convex, i18n & Localization, AI-assisted workflows, and Trust & Safety engineering.
+-  **Building Currently:** Co-founding and developing **GhostCheck** (Chrome Extension & platform) and **KuLink** (Smart TV media player).
+-  **Previously:** Spent 5 years at **Swift Media Entertainment (Blitz.gg)** building automation pipelines, managing 17-language localization workflows, shipping production code, and supporting a community of 74,000+ members.
+-  **Core Strengths:** React, TypeScript, Cloudflare Workers, Convex, i18n & Localization, AI-assisted workflows, and Trust & Safety engineering.
 
 ---
 
-### 🧰 Tech Stack & Skills
+### Tech Stack & Skills
 
 <div align="center">
 
@@ -58,7 +58,7 @@ Full-stack developer and technical operations specialist with **5+ years of expe
 
 ---
 
-### 💻 Featured Projects
+### Featured Projects
 
 <table align="center" width="100%">
   <tr>
@@ -85,7 +85,7 @@ Full-stack developer and technical operations specialist with **5+ years of expe
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
 
@@ -99,5 +99,5 @@ Full-stack developer and technical operations specialist with **5+ years of expe
 ---
 
 <div align="center">
-  <sub>Designed with ❤️ by <a href="https://github.com/Ku-Tadao">Kubilay Karabulut</a></sub>
+  <sub>Designed with  by <a href="https://github.com/Ku-Tadao">Kubilay Karabulut</a></sub>
 </div>
